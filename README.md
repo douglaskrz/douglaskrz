@@ -5,4 +5,4 @@
 
 
 
-<a href"https://www.instagram.com/douglas.krz" target=" _blank"><ing src="https://ing.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo+instagram&logoColor=white"target="_blank"></a>
+https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white
